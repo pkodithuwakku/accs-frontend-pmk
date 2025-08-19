@@ -275,7 +275,7 @@ button {
 
 /* links */
 a:not(.dropin-design a) {
-  color: var(--color-brand-500);
+  color: #b01717;
   font: var(--type-body-1-strong-font);
   letter-spacing: var(--type-body-1-strong-letter-spacing);
   text-decoration: none;

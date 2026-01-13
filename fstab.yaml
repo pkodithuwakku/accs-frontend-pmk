@@ -5,4 +5,4 @@ mountpoints:
 
 folders:
   /products/: /products/default
-  /au-store/products/: /au-store/products/default
+  /austore/products/: /austore/products/default

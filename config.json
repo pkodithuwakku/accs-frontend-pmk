@@ -24,6 +24,18 @@
         "website-id": 1,
         "website-name": "Main Website"
       }
-    }
+    },
+    "/au-store/": {
+        "headers": {
+           "all": {
+              "Store": "au"
+           },
+           "cs": {
+              "Magento-Store-Code": "au",
+              "Magento-Website-Code": "au",
+              "Magento-Store-View-Code": "au"
+           }
+        }
+     }
   }
 }
